@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/ts_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_24px"
+        android:title="TODO"
+        android:background="@drawable/ts_background_drawer"/>
+    <item
+        android:id="@+id/ts_take_picture"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_a_photo_24px"
+        android:title="TODO"
+        android:background="@drawable/ts_background_drawer"/>
+
+    <item
+        android:id="@+id/ts_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings_24px"
+        android:title="TODO"
+        android:background="@drawable/ts_background_drawer"/>
+
+</menu>
